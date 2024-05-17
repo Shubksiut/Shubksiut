@@ -117,7 +117,7 @@ Master of Science in Information Science candidate with a Bachelor of Science in
 [<img align="left" alt="Shubhamkumar Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/your_twitter_handle
-[instagram]: https://www.instagram.com/your_instagram_handle/
+[instagram]: https://www.instagram.com/shubham_singh.in?igsh=enZjaWF0cHZtZWk1&utm_source=qr
 [linkedin]: https://linkedin.com/in/shubhamkumar-singh
 
 <!--

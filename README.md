@@ -72,7 +72,7 @@ Master of Science in Information Science candidate with a Bachelor of Science in
 
 ## 🧑‍💻 Projects
 
-- **Brain Tumor Detection via Deep Learning**: Developed a neural network model to accurately identify brain tumors from MRI scans. [GitHub Repository](https://github.com/Shubksiut/Brain-Tumor-Detection)
+- **Brain Tumor Detection via Deep Learning**: Developed a neural network model to accurately identify brain tumors from MRI scans. [GitHub Repository]https://github.com/Shubksiut/Brai-Tumour/blob/main/README.md
 - **StrokeRisk Predictor**: A Comprehensive Model for Early Identification of Stroke Risk. [GitHub Repository](https://github.com/yourgithubusername/StrokeRisk-Predictor)
 - **Virtual Reality Therapy Management System**: A system to manage therapy sessions using virtual reality. [GitHub Repository](https://github.com/yourgithubusername/VR-Therapy-Management)
 - **Real-Time Cyber Security Enhancement with AI-Driven Threat Detection**: Implemented AI-driven solutions for real-time threat detection and cybersecurity enhancement. [GitHub Repository](https://github.com/yourgithubusername/AI-CyberSecurity)

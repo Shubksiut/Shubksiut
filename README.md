@@ -1,140 +1,70 @@
-<h1 align="center">Hi, I'm Shubhamkumar Singh! 👋</h1>
-<h3 align="center">Health Informatics Specialist, Data Analyst, and Aspiring Revenue Cycle Analyst</h3>
+# Hi, I'm Shubhamkumar Singh! 👋 
+### Health Informatics Specialist | Revenue Cycle Analyst | B.Pharm & MS in Health Informatics
 
-<p align="center">
-  <a href="https://github.com/yourgithubusername"><img alt="GitHub followers" src="https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/shubhamkumar-singh/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+<p align="left">
+  <a href="https://linkedin.com/in/shubhamkumar-singh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:Shubksiut@outlook.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ---
 
-## 📘 About Me
+## 📘 Professional Profile
+I am a **Master of Science in Information Science** candidate at the **University of North Texas**, specializing in **Health Informatics**. With a foundational **Bachelor of Pharmacy**, I bridge the gap between clinical drug knowledge and data-driven healthcare operations. 
 
-Master of Science in Information Science candidate with a Bachelor of Science in Pharmacy. Proficient in data analysis, healthcare systems, and regulatory compliance. Experienced in revenue cycle management, clinical data analysis, and EHR systems. Seeking to leverage skills in a data-driven healthcare role.
-
----
-
-## 🛠 Skills
-
-**Data Analysis Tools**:
-- Python
-- SQL
-- Advanced Excel (Pivot Tables, VLOOKUP, Macros)
-
-**Data Visualization**:
-- Tableau
-- Power BI
-
-**Statistical Analysis**:
-- Regression
-- Hypothesis Testing
-
-**EHR Systems**:
-- Epic
-- Cerner
-- Nextgen
-
-**Healthcare Knowledge**:
-- Patient care processes
-- Medical terminology (ICD-10, CPT coding)
-- HIPAA compliance
+Currently, I am a **Revenue Cycle Analyst** at **ID Doctors, PA**, where I leverage **SQL-driven analysis** and **Medisoft database workflows** to optimize financial performance and ensure HIPAA-compliant data integrity for 60+ healthcare facilities.
 
 ---
 
-## 💼 Experience
-
-### Revenue Cycle Representative, IKS Health
-*December 2022 - May 2023 | Hyderabad, Telangana*
-- Verified patient eligibility for coverage, reducing claim rejections by 20% and accelerating payment processing by 15%.
-- Developed and implemented a daily spreadsheet program, reducing financial reporting time by 30% and improving data accuracy by 25%.
-- Ensured compliance with HIPAA regulations regarding the protection of confidential information.
-- Managed claim denials and appeals, achieving a 50% success rate in overturning denials.
-
-### Student Intern, Malla Reddy Narayana Multi-speciality Hospital
-*May 2022 - September 2022 | Hyderabad, Telangana*
-- Analyzed clinical trial data using Python, which led to the identification of critical patterns, accelerating research conclusions by 2 months.
-- Helped design and implement SANJEEVANI, an EHR system tracking adverse drug reactions, allergies, appointments, health conditions, diagnostic reports, insurance information, and previous visits.
-- Gained proficiency in using EHR systems, enhancing patient data management and research capabilities.
-
-### Health Educator and Outreach Coordinator, Parivar Vikas Organisation
-*November 2021 - March 2022 | Jamui, Bihar, India*
-- Created and implemented operational plans, resulting in a 30% increase in community engagement and a 20% improvement in health awareness metrics.
-- Delivered health education talks at 10 training workshops and conferences, reaching over 1,200 community members and significantly increasing health awareness in the community.
-- Educated community members on disease prevention, vaccines, and mental health resources.
-
-### Fund Raiser, CERDF- Childo Education and Research Development
-*February 2021 - March 2022 | Hyderabad, Telangana*
-- Led a team of volunteers in organizing five major fundraising events, managed finances, and collaborated with board members, resulting in attracting 50 new donors.
-- Engaged with over 100 donors through phone, email, and face-to-face meetings, significantly strengthening donor relationships.
-- Collaborated with board members to develop and implement innovative fundraising strategies, leading to a 30% increase in annual donations.
+## 📊 GitHub Stats & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shubksiut&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubksiut&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🧑‍💻 Projects
+## 🛠 Tech Stack & Domain Expertise
 
-- **Brain Tumor Detection via Deep Learning**: Developed a neural network model to accurately identify brain tumors from MRI scans. **Project**: [Click here](https://github.com/Shubksiut/Brai-Tumour)
-
-- **StrokeRisk Predictor**: A Comprehensive Model for Early Identification of Stroke Risk. **Project**: [Click here](https://github.com/Shubksiut/Strokepredictor)
-
-- **Virtual Reality Therapy Management System**: A system to manage therapy sessions using virtual reality. **Project:** [Click here](https://github.com/Shubksiut/Virtual-Reality-Management-System)
-
-- **Real-Time Cyber Security Enhancement with AI-Driven Threat Detection**: Implemented AI-driven solutions for real-time threat detection and cybersecurity enhancement. [GitHub Repository](https://github.com/yourgithubusername/AI-CyberSecurity)
-  
-- **Revenue Cycle Management for Healthcare**: Streamlined revenue cycle management to enhance financial performance and operational efficiency. [GitHub Repository](https://github.com/yourgithubusername/Revenue-Cycle-Management)
+| **Category** | **Tools & Technologies** |
+| :--- | :--- |
+| **Data Analysis** | ![Python](https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/sql-CC2927?style=flat&logo=postgresql&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
+| **Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black) |
+| **Healthcare Systems** | ![Epic](https://img.shields.io/badge/Epic-ED1C24?style=flat) ![Cerner](https://img.shields.io/badge/Cerner-00AEEF?style=flat) ![NextGen](https://img.shields.io/badge/NextGen-004A99?style=flat) |
+| **Domain Knowledge** | **RCM (AR Follow-up, Denial Management), HIPAA, CPT/ICD-10 Coding, Pharma Systems** |
 
 ---
 
-## 🎓 Education and Training
+## 💼 Key Experience 
 
-- **Master of Science in Information Science**: University of North Texas, Denton TX | Expected May 2025
-- **Bachelor of Science in Pharmacy**: Malla Reddy College of Pharmacy, Hyderabad | August 2022
+### **Revenue Cycle Analyst** | ID Doctors, PA (Denton/Plano, TX)
+* **Predictive Reporting**: Utilizing **SQL-driven analysis** to identify statistical trends and improve the clean-claim rate across **60 facilities**.
+* **Denial Management**: Applying **CPT-ICD coding logic** to resolve complex billing discrepancies and negotiate with major payers (Aetna, UHC, Cigna).
 
----
-
-## 📜 Certifications
-
-- Six Sigma Certification (CSSC)
-- Certified Healthcare Financial Professional (HFMA)
-- The Structured Query Language (SQL) - University of Colorado Boulder (Coursera)
-- Python Functions, Files, and Dictionaries - University of Michigan (Coursera)
+### **Revenue Cycle Representative** | IKS Health
+* Optimized revenue workflows in **NextGen** and **Optum EHR**, reducing claim denials by **25%**.
+* Leveraged **SQL** to query claim databases for rebuttal analysis, improving data accuracy by **25%**.
 
 ---
 
-## 🏆 Accomplishments
+## 🧑‍💻 Featured Projects
 
-- Rewards & Recognition: IKS Health - April 2023
-- Presented at Indo-US webinar on Miraculous Protective Mechanisms of Human System at Malla Reddy College of Pharmacy, Hyderabad, India
-- Presented at Multi-Disciplinary Information Research Symposium, University of North Texas, Denton, TX
+### 🏥 [Revenue Cycle Management for Healthcare](https://github.com/Shubksiut/Revenue-Cycle-Management)
+Streamlined medical billing workflows to enhance operational efficiency. Focused on identifying "leakage" in accounts receivable using data modeling.
 
----
-
-## 📚 Continuing Education
-
-- **AMIA 2023 Informatics Summit Participant**: Awarded 19.50 AMA PRA Category 1 Credits | March 18-21, 2024, Boston, USA
+### 🧠 [Brain Tumor Detection via Deep Learning](https://github.com/Shubksiut/Brai-Tumour)
+Developed a neural network model to accurately identify tumors from MRI scans, bridging medical imaging and AI-driven diagnosis.
 
 ---
 
-## 🤳 Connect with me:
+## 🎓 Education & Certifications
+* **MS in Health Informatics** | University of North Texas | Expected May 2025
+* **Bachelor of Pharmacy** | Malla Reddy College of Pharmacy
+* **Certifications**: Six Sigma (CSSC) | Certified Healthcare Financial Professional (HFMA) | SQL (CU Boulder)
 
-[<img align="left" alt="Shubhamkumar Singh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shubhamkumar Singh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shubhamkumar Singh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
-[twitter]: https://twitter.com/your_twitter_handle
-[instagram]: https://www.instagram.com/shubham_singh.in?igsh=enZjaWF0cHZtZWk1&utm_source=qr
-[linkedin]: https://linkedin.com/in/shubhamkumar-singh
-
-<!--
-**yourgithubusername/yourgithubusername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤳 Let's Connect!
+<p align="left">
+  <a href="https://linkedin.com/in/shubhamkumar-singh/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
+  <a href="https://github.com/Shubksiut"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" /></a>
+</p>
